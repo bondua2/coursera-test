@@ -63,3 +63,8 @@ git commit -m "Your commit message"
 === Push new changes to the Git repository ===
 ------------------------------------------------
 git push
+
+=== Some other options ===
+------------------------------------------------
+git config --global user.email "your@email"
+git config --global user.name "User Name"
