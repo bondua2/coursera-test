@@ -9,6 +9,7 @@
 <playlist
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		xsi:schemaLocation="mypl.xsd"
+		xmlns:vls="http://www.videolan.org/vlc/playlist/ns/0/"
 		version="1">
 	
 	<title></title>
