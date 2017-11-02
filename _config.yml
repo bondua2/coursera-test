@@ -6,3 +6,4 @@ theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
+minimal_mistakes_skin : "mint"

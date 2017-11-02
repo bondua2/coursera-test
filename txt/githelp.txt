@@ -1,0 +1,70 @@
+=== To clone your Git repository ===
+
+------------------------------------------------
+git clone http://yourgitrepository.site.com
+------------------------------------------------
+
+=== To see the status of your Git repository ===
+
+------------------------------------------------
+git status
+------------------------------------------------
+
+=== To checkout to another branch of the Git ===
+
+------------------------------------------------
+git checkout "other-branch"
+------------------------------------------------
+
+=== To add changes to your Git ===
+
+------------------------------------------------
+git add . ;("." for the root derectory)
+------------------------------------------------
+
+=== To commit changes on your Git ===
+
+------------------------------------------------
+git commit -m "Your message for the commit"
+------------------------------------------------
+
+=== To push changes to the online Git repository ===
+------------------------------------------------
+git push
+------------------------------------------------
+;(Need to enter login and password for the Git account)
+
+Example:
+------------------------------------------------
+
+=== Clone your project on Git ===
+------------------------------------------------
+git clone http://yourproject.git
+
+=== Just in case check your Git status
+------------------------------------------------
+git status
+
+
+=== And checkout to another branch if it's necessary ===
+------------------------------------------------
+git checkout another.branch
+
+=== Do some changes ===
+=== Add the changes for the next commit ===
+=== Use "." for the root derectory or the direct local link like "../dir/site/file.ext"
+------------------------------------------------
+git add "."
+
+=== Commit the changes ===
+------------------------------------------------
+git commit -m "Your commit message"
+
+=== Push new changes to the Git repository ===
+------------------------------------------------
+git push
+
+=== Some other options ===
+------------------------------------------------
+git config --global user.email "your@email"
+git config --global user.name "User Name"
