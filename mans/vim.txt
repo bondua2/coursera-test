@@ -156,3 +156,9 @@ tab sp (split) //to split current tab
 Vex //file's tree
 <C-w-hjkl> //navigation through tabs
 -----------------------------------------------------------------------
+
+=== list of available options (autocompletion) ===
+-----------------------------------------------------------------------
+colorscheme Ctrl+d // to list all available schemes
+help Ctrl +d // to show all help options
+-----------------------------------------------------------------------
