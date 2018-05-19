@@ -168,3 +168,16 @@ Vex //file's tree
 colorscheme Ctrl+d // to list all available schemes
 help Ctrl +d // to show all help options
 -----------------------------------------------------------------------
+
+=== to set 'tab space' containing 4 spaces ===
+-----------------------------------------------------------------------
+set tabstop=4
+-----------------------------------------------------------------------
+
+=== to set color for line numbers ===
+-----------------------------------------------------------------------
+:highlight LineNr ctermfg=grey // for vim
+:highlight LineNr guifg=#050505 // for gvim
+// location for color schemes:
+// /usr/share/vim/vim72/colors
+-----------------------------------------------------------------------
